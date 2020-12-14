@@ -1,7 +1,0 @@
-{
-    "query":"SELECT * FROM media_spectrum.onclusive_data LIMIT 10 Updated",
-    "twitter_handles":"@test",
-    "keywords":"test",
-    "logo_id": 111,
-    "client_name": "netflix"
-  }
